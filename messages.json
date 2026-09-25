@@ -30,7 +30,7 @@
                      {
                          "id":  "treasure_002",
                          "type":  "treasure",
-                         "enabled":  true,
+                         "enabled":  false,
                          "message":  "深呼吸",
                          "max_uses":  2,
                          "min_gap_days":  0,
@@ -39,7 +39,7 @@
                      {
                          "id":  "treasure_003",
                          "type":  "treasure",
-                         "enabled":  true,
+                         "enabled":  false,
                          "message":  "出去走走",
                          "max_uses":  5,
                          "min_gap_days":  1,
@@ -48,7 +48,7 @@
                      {
                          "id":  "permanent_001",
                          "type":  "permanent",
-                         "enabled":  true,
+                         "enabled":  false,
                          "message":  "累的时候，也可以允许自己慢一点。",
                          "priority":  "normal",
                          "min_gap_days":  0,
@@ -58,7 +58,7 @@
                      {
                          "id":  "ordinary_003",
                          "type":  "ordinary",
-                         "enabled":  true,
+                         "enabled":  false,
                          "message":  "未来留言测试",
                          "start_at":  "2026-09-26T00:00:00+08:00",
                          "max_uses":  1
@@ -66,7 +66,7 @@
                      {
                          "id":  "ordinary_004",
                          "type":  "ordinary",
-                         "enabled":  true,
+                         "enabled":  false,
                          "message":  "过期留言测试",
                          "start_at":  "2026-09-24T00:00:00+08:00",
                          "end_at":  "2026-09-24T23:59:00+08:00",
@@ -75,7 +75,7 @@
                      {
                          "id":  "ordinary_005",
                          "type":  "ordinary",
-                         "enabled":  true,
+                         "enabled":  false,
                          "message":  "当前有效留言测试",
                          "start_at":  "2026-09-25T00:00:00+08:00",
                          "end_at":  "2026-09-25T23:59:00+08:00",
@@ -84,7 +84,7 @@
                      {
                          "id":  "ordinary_006",
                          "type":  "ordinary",
-                         "enabled":  true,
+                         "enabled":  false,
                          "message":  "加油加油",
                          "priority":  "high",
                          "max_uses":  1
@@ -92,7 +92,7 @@
                      {
                          "id":  "ordinary_007",
                          "type":  "ordinary",
-                         "enabled":  true,
+                         "enabled":  false,
                          "message":  "多喝热水",
                          "priority":  "low",
                          "max_uses":  1
@@ -100,7 +100,7 @@
                      {
                          "id":  "ordinary_008",
                          "type":  "ordinary",
-                         "enabled":  true,
+                         "enabled":  false,
                          "message":  "坚持住",
                          "priority":  "high",
                          "max_uses":  1
@@ -108,7 +108,7 @@
                      {
                          "id":  "ordinary_009",
                          "type":  "ordinary",
-                         "enabled":  true,
+                         "enabled":  false,
                          "message":  "今天吃什么",
                          "priority":  "high",
                          "max_uses":  1
