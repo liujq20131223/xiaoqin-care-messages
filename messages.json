@@ -112,6 +112,14 @@
                          "message":  "今天吃什么",
                          "priority":  "high",
                          "max_uses":  1
+                     },
+                     {
+                         "id":  "ordinary_010",
+                         "type":  "ordinary",
+                         "enabled":  false,
+                         "message":  "今天怎么样",
+                         "priority":  "normal",
+                         "max_uses":  1
                      }
                  ]
 }
