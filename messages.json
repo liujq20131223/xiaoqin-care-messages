@@ -54,6 +54,32 @@
                          "min_gap_days":  0,
                          "adapt":  true,
                          "context_hint":  "适合压力大、疲惫、节奏很赶时"
+                     },
+                     {
+                         "id":  "ordinary_003",
+                         "type":  "ordinary",
+                         "enabled":  true,
+                         "message":  "未来留言测试",
+                         "start_at":  "2026-09-26T00:00:00+08:00",
+                         "max_uses":  1
+                     },
+                     {
+                         "id":  "ordinary_004",
+                         "type":  "ordinary",
+                         "enabled":  true,
+                         "message":  "过期留言测试",
+                         "start_at":  "2026-09-24T00:00:00+08:00",
+                         "end_at":  "2026-09-24T23:59:00+08:00",
+                         "max_uses":  1
+                     },
+                     {
+                         "id":  "ordinary_005",
+                         "type":  "ordinary",
+                         "enabled":  true,
+                         "message":  "当前有效留言测试",
+                         "start_at":  "2026-09-25T00:00:00+08:00",
+                         "end_at":  "2026-09-25T23:59:00+08:00",
+                         "max_uses":  1
                      }
                  ]
 }
