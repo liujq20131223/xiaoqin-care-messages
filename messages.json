@@ -110,7 +110,7 @@
                          "type":  "ordinary",
                          "enabled":  true,
                          "message":  "今天吃什么",
-                         "priority":  "low",
+                         "priority":  "high",
                          "max_uses":  1
                      }
                  ]
