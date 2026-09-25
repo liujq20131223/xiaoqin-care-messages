@@ -9,6 +9,13 @@
                          "max_uses":  1,
                          "min_gap_days":  0,
                          "adapt":  false
+                     },
+                     {
+                         "id":  "ordinary_002",
+                         "type":  "ordinary",
+                         "enabled":  true,
+                         "message":  "加油",
+                         "max_uses":  1
                      }
                  ]
 }
