@@ -80,6 +80,22 @@
                          "start_at":  "2026-09-25T00:00:00+08:00",
                          "end_at":  "2026-09-25T23:59:00+08:00",
                          "max_uses":  1
+                     },
+                     {
+                         "id":  "ordinary_006",
+                         "type":  "ordinary",
+                         "enabled":  true,
+                         "message":  "加油加油",
+                         "priority":  "high",
+                         "max_uses":  1
+                     },
+                     {
+                         "id":  "ordinary_007",
+                         "type":  "ordinary",
+                         "enabled":  true,
+                         "message":  "多喝热水",
+                         "priority":  "low",
+                         "max_uses":  1
                      }
                  ]
 }
