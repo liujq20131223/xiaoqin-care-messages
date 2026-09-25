@@ -44,6 +44,16 @@
                          "max_uses":  5,
                          "min_gap_days":  1,
                          "adapt":  "light"
+                     },
+                     {
+                         "id":  "permanent_001",
+                         "type":  "permanent",
+                         "enabled":  true,
+                         "message":  "累的时候，也可以允许自己慢一点。",
+                         "priority":  "normal",
+                         "min_gap_days":  0,
+                         "adapt":  true,
+                         "context_hint":  "适合压力大、疲惫、节奏很赶时"
                      }
                  ]
 }
