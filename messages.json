@@ -96,6 +96,22 @@
                          "message":  "多喝热水",
                          "priority":  "low",
                          "max_uses":  1
+                     },
+                     {
+                         "id":  "ordinary_008",
+                         "type":  "ordinary",
+                         "enabled":  true,
+                         "message":  "坚持住",
+                         "priority":  "high",
+                         "max_uses":  1
+                     },
+                     {
+                         "id":  "ordinary_009",
+                         "type":  "ordinary",
+                         "enabled":  true,
+                         "message":  "今天吃什么",
+                         "priority":  "low",
+                         "max_uses":  1
                      }
                  ]
 }
