@@ -1,0 +1,10 @@
+{
+  "messages": [
+    {
+      "id": "ordinary_001",
+      "type": "ordinary",
+      "enabled": true,
+      "message": "今天也要记得好好吃饭呀。"
+    }
+  ]
+}
